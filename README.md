@@ -20,7 +20,7 @@ SQL statement: RUNSCRIPT FROM 'classpath:desktop/core/database/databaseCreation.
 
 ## Tests
 
-**Run tests with `mvn spring-boot:run`**
+**Run tests with `mvn test`**
 
 1. Database is created with correct table.
 2. Database table contains initial values.
